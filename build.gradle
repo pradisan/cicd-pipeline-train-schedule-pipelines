@@ -3,9 +3,9 @@ plugins {
 }
 
 node {
- version = '16.20.0'
+ version = '16.10.0'
  download = true
- npmVersion = '8.19.4'
+ npmVersion = '7.24.0'
 }
 
 repositories.whenObjectAdded {
